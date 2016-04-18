@@ -1,0 +1,131 @@
+Cmp-Mod V01 Created by PcbNew   date = 17/04/2016 16:15:35
+
+BeginCmp
+TimeStamp = 5712E29E
+Path = /5712C609
+Reference = IC1;
+ValeurCmp = ATMEGA328P-P;
+IdModule  = Housings_DIP:DIP-28_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5712E26B
+Path = /57131E1E
+Reference = C3;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5712E27E
+Path = /5712DEDA
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 5712E2A4
+Path = /5712F015
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5712E2AC
+Path = /57130147
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713BCB6
+Path = /57131537
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:HC-18UV;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713CFE6
+Path = /57144B27
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D02E
+Path = /5714899D
+Reference = P1;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D034
+Path = /5713B992
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D03D
+Path = /57145AC0
+Reference = P3;
+ValeurCmp = CONN_01X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D045
+Path = /57141376
+Reference = P4;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D1FE
+Path = /5714913A
+Reference = C1;
+ValeurCmp = CP1_Small;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L6_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D203
+Path = /57149461
+Reference = C2;
+ValeurCmp = CP1_Small;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L6_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D208
+Path = /57131601
+Reference = C4;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5713D20D
+Path = /57131664
+Reference = C5;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5712E2B4
+Path = /571490C7
+Reference = U1;
+ValeurCmp = LM7805;
+IdModule  = TO_SOT_Packages_THT:TO-220_Neutral123_Horizontal;
+EndCmp
+
+EndListe
